@@ -27,7 +27,9 @@
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf8flovpg1j30u07l7hdx.jpg)
 
-[后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
+#### [后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ) 
+
+#### [脑图在线编辑地址](https://www.processon.com/view/5e86b713e4b0bf3ebcf4e376)
 
 # 目录(善用Ctrl+F)
 
@@ -55,6 +57,9 @@
   - [进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s/FaHKGRI69TqDj0AJtNiVoA)
   - [20 张图揭开内存管理的迷雾](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
   - [看完这篇操作系统，和面试官扯皮就没问题了。](https://mp.weixin.qq.com/s/59xyIj1nIFp2TtkKFYnR-g)
+  - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
+  - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
+  - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - [新来的"大神"用策略模式把if else给"优化"了，总监想叫他走...](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
@@ -73,7 +78,7 @@
   - [枚举](https://mp.weixin.qq.com/s/U5FkL9zyzr0PkAp8MJJ8BQ)
   - [我就知道面试官接下来要问我 ConcurrentHashMap 底层原理了](https://mp.weixin.qq.com/s/My4P_BBXDnAGX1gh630ZKw)
   - [Java 集合框架看这一篇就够了](https://mp.weixin.qq.com/s/bVOSat47L0Hskfx9akAN6Q)
-  
+  - [Java 集合中「堆」是啥？](https://mp.weixin.qq.com/s/eSCVJclB-IaJYkPKsWSkRA)
   
 - 深入浅出JVM
 
@@ -93,6 +98,7 @@
   - 线程同步与互斥
   - 线程池知识点
   - 常见的JUC工具类
+  - [2w字 + 40张图带你参透并发编程！](https://mp.weixin.qq.com/s/NZAJWBiFvGzCZXjr0KC9Dw)
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
@@ -131,11 +137,15 @@
   - [什么是 Spring 循环依赖？](https://mp.weixin.qq.com/s/5mwkgJB7GyLdKDgzijyvXw)
   - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
   - [敖丙说精通字符串，面试官竟然问Java中的String有没有长度限制！](https://mp.weixin.qq.com/s/6YhpbuhdTX9BM_OimoW8MA)
+  - [Spring中的循环依赖](https://mp.weixin.qq.com/s/kS0K5P4FdF3v-fiIjGIvvQ)
   - 高性能NIO框架-Netty
   - 分布式框架基石-RPC
   - [Netty常见面试题总结](https://mp.weixin.qq.com/s/eJ-dAtOYsxylGL7pBv7VVA)
   - [敖丙RPC的超时设置，一不小心搞了线上事故](https://mp.weixin.qq.com/s/pkWkD1VhMxhZPRrybLcQjA)
   - [敖丙找出Dubbo源码BUG，三歪夸了我一天](https://mp.weixin.qq.com/s/_5YMfQK1tmYbmRMldBPlaQ)
+  - [Dubbo基础](https://mp.weixin.qq.com/s/FPbu8rFOHyTGROIV8XJeTA)
+  - [Dubbo的服务暴露过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
+  - [Dubbo的SPI机制是啥？](https://mp.weixin.qq.com/s/gwWOsdQGEN0t2GJVMQQexw)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
@@ -145,6 +155,7 @@
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
+  - [再见了Antirez我永远的神](https://mp.weixin.qq.com/s/u3Ws1FGhJVIJdpM8IHI7OQ)
   - [敖丙在蘑菇街的redis技术分享](https://mp.weixin.qq.com/s/xS2dqi5IG10AF7cHbzguAA)
   - [Redis基础知识](https://mp.weixin.qq.com/s/aOiadiWG2nNaZowmoDQPMQ)
   - [缓存击穿、雪崩、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
@@ -167,6 +178,7 @@
   - [Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg) 
   - [妈妈再也不担心我面试被Redis问得脸都绿了](https://mp.weixin.qq.com/s/vXBFscXqDcXS_VaIERplMQ)
   - [Redis数据结构底层系列-SDS](https://mp.weixin.qq.com/s/VY31lBOSggOHvVf54GzvYw)
+  - [秒杀系统2.0](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw)
   
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
 
@@ -176,6 +188,7 @@
   - [RocketMQ](https://mp.weixin.qq.com/s/y-4TVwbc7AFGEA7q-_OkYw)
   - [面试题：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？](https://mp.weixin.qq.com/s/1r1x-Irbatvzdc90haaecA)
   - [面试官：你对Kafka比较熟？ 那说说kafka日志段如何读写的吧？](https://mp.weixin.qq.com/s/68XX9qnEvDTCOw8gYLNBxQ)
+  - [师兄大厂面试遇到面试官的 Kafka 暴击三连问，快面哭了！](https://mp.weixin.qq.com/s/ejZBAGI7qLE_QYSe-AqipA)
   
 - 数据库
 
@@ -224,6 +237,8 @@
   - 从All in one 到微服务
   - 互联网架构之路
   - 怎么设计一个能顶住双十一的系统？
+  - [分布式架构由来](https://mp.weixin.qq.com/s/uv9xYgYrHWqM5acXQYFegA)
+  - [分布式事务](https://mp.weixin.qq.com/s/XknegP66mnYboiBx556Kzw)
 
 - 互联网前沿技术
 
@@ -243,12 +258,16 @@
   
 - 研发规范
 
+  - [为什么阿里巴巴禁止使用Apache Beanutils进行属性的copy？](https://mp.weixin.qq.com/s/3XX-Lu1KrKEc3IfB9Iqz5A)
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
+  - [fastjson到底做错了什么？为什么会被频繁爆出漏洞？](https://mp.weixin.qq.com/s/iV9DbX3LhbBkNiaKLL7PxA)
   
 - 面试真题&面经分享
-  
+
+  - [百度、字节跳动等后台面经，已拿Offer！](https://mp.weixin.qq.com/s/BiaXzNw5rp69CPPNBRii3g)
+  - [一位读者小姐姐的阿里面经分享，快被问哭了！（附部分问题详解）](https://mp.weixin.qq.com/s/jnegDdp4OMSKynZl8OBIpw) 
   - [小姐姐面试蚂蚁金服被虐经历，心疼...](https://mp.weixin.qq.com/s/nzvg3e-RgM59zs9WSeUpLg)
   - [读者一个月拿到阿里字节拼多多offer](https://mp.weixin.qq.com/s/kSiLvSrAMwrHLwxvesyjBw)
   - [被裁一个月面试的面经和经验分享](https://mp.weixin.qq.com/s/MkjSYc0JA1-VErX3lJzPmQ)  
@@ -276,6 +295,9 @@
   
 - 程序人生系列
 
+  - [敖丙第一次见到一个亿...](https://mp.weixin.qq.com/s/KB7Gkdu4S13mQnlHGAUHfQ)
+  - [我第一次相亲就被大三岁的姐姐看上](https://mp.weixin.qq.com/s/bM7xtVDwAA82d42UrhEx2g)
+  - [入职一周年，我眼中的蘑菇街](https://mp.weixin.qq.com/s/LjFfDwT62usphaock5pU8Q)
   - [鲜衣怒马少年时，一日看尽长安花](https://mp.weixin.qq.com/s/oY3CxB2Dk82mBs4W77Zrcw)  
   - [24岁我全款买了人生的第一辆车](https://mp.weixin.qq.com/s/aK6ASJO6G1q4mY3TUShCqQ)
   - [让你自制力提升300%的学习方法](https://mp.weixin.qq.com/s/vseVDxl3BjESeZsdKLd1eA)
@@ -323,8 +345,9 @@
   - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
   
 - **福利**
-
+    
     - [Java/后端学习路线](https://mp.weixin.qq.com/s/5QpuDtXAalR-pz59B5t27g)
+    - [Java/后端学习路线 2.0优化版本](https://mp.weixin.qq.com/s/QrRVMp6z7HjZA4trsga_cg)
     - [整理的书单(附个人喜欢的文学书)](https://mp.weixin.qq.com/s/Wod2cGjGkGeB0iLVAqpksQ)
     - [敖丙大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://mp.weixin.qq.com/s/7NS452k5hVPW0dUQ-oTi-A)
     - [整理好用的工具集](https://mp.weixin.qq.com/s/WYiXHVJ-p1sZAf4jb5gIXg)
@@ -335,6 +358,8 @@
     - [简历模板(欢迎补充)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [5分钟白嫖敖丙常用的免费效率软件/工具！](https://mp.weixin.qq.com/s/2_hM5Z9IMLIRQ2QEPTABcQ)
+
+所有文章pdf版本 : 链接:https://pan.baidu.com/s/1PKO0LDspwJPNqT6qwqNorQ  密码:f654
 
 技术交流群：添加我微信  Aobingcool  备注【加群】即可
 
@@ -395,17 +420,64 @@
 
 阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com           
 
-字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
+腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
 
+字节 : tarch-hr@bytedance.com 
 
+### 文案助理
 
-## 近期机会
+跟敖丙一起干活 杭州的最好周末可以一起咖啡厅管饭
+
+#### 岗位要求（兼职不需要全职）
+
+1. 有原创文章撰写经验，2000字及以上，互联网类优先（java相关技术栈最好）；
+2. 有1-3年微信公众号运营经验优先；
+3. 本科学历及以上，新闻学/中文系/计算机等相关专业优先；
+4. 对互联网领域感兴趣并有所了解
+
+如果以上要求你都不符合，但是你对自己有自信，也可以尝试
+
+#### 岗位描述
+
+1. 参与泛科技/互联网/java类微信公众号运营；
+2. 筛选选题，撰写大纲，并撰写原创稿件。
+
+#### 福利
+
+1. 兼职满一年，全资带飞旅游；
+2. 会根据数据给奖励（无上限）
+
+联系 : aobing@mogu.com 
+
+## 社招近期机会
+
+### 蘑菇街 大数据开发
+
+#### 职位描述:
+
+1.负责大数据平台技术工作，包括需求分析、架构设计、研发、以及性能分析工作；
+
+2.负责给产品开发、实施、运维团队提供数据平台的技术保障；
+
+3.负责指导和解决开发人员在使用数据平台开发工具和运行中出现的各种问题；
+
+#### 职位要求:
+
+1.1年以上软件开发经验，精通Java开发
+
+2.对基于hadoop的大数据处理体系有认识，具备相关产品（hadoop/hive）项目应用研发经验
+
+3.熟悉分布式系统、分布式计算系统的工作机制，能熟练掌握相关核心技术的工作机理
+
+4.具有大规模数据平台，高并发大型系统，大数据等架构设计和开发经验者优先
+
+投递邮箱 : aobing@mogu.com 
 
 ### 支付宝网商银行:
 
 Java工作两年及以上的同学欢迎尝试～
 
-关于部门：
+#### 关于部门：
 
 网商银行不做过多介绍了，网上很多相关资料，跟腾讯微众对标，每年绩效都很好。
 
@@ -415,11 +487,11 @@ Java工作两年及以上的同学欢迎尝试～
 
 可以保证的是一定不是单纯搬砖，本部门在整个网商都是底层核心系统，无论是流量还是数据量都是极大的技术挑战。
 
-关于职级：
+#### 关于职级：
 
 p6-p8都有hc，真实hc不刷kpi，目前网商银行业务扩张，目标人数*2，所以放出了很多hc，是进蚂蚁的好机会。
 
-关于面试：
+#### 关于面试：
 
 很多同学可能很担心投了没有面好会对以后有影响，或者投了之后面下来发现不合适，这里说明一下，我们不会马上把你简历录系统，会先进行评估并且跟你电话沟通，双方都觉得合适才会开始面试，不会一来就传简历，而且面试时间和进度我可以随时帮跟进，不存在放鸽子这种情况。
 
@@ -457,7 +529,7 @@ p6-p8都有hc，真实hc不刷kpi，目前网商银行业务扩张，目标人�
 - 挑战：我们的基础领域业务遍布全世界各个角落，每个国家都会带给我们不一样的挑战和机遇，在这里我们可以重新定义电商基础领域，实现基础链路领域国家差异化；
 
 
-岗位要求：
+#### 岗位要求：
 
 - 3 年及以上使用 JAVA 开发的经验，JAVA 基础扎实，理解io、多线程、集合等基础框架，了解 JVM 原理；
 
